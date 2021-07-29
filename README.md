@@ -32,7 +32,7 @@ Project is created with:
 * requests-oauthlib
 	
 ## Setup
-To run this project, install it locally:
+To run this project, install locally:
 
 * pip install requests
 * pip install requests-oauthlib
